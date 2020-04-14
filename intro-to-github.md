@@ -14,14 +14,14 @@ Sign up for Github using your Columbia email address. (optional) Confirm your ed
 You also need to install Git on your computer. 
 
 ## Linux
-Open your command line, and use the command ```$ sudo dnf install git-all``` to download Github.
+Open your command line, and use the command ```$ sudo dnf install git-all``` to download Git.
 
 ## Windows
-Go to https://git-scm.com/download/win and git will download automatically. 
+Go to https://git-scm.com/download/win and Git will download automatically. 
 
 ## MacOS
 Try running ```$ git --version``` on your Terminal app.
-If you don’t have it installed already, it will prompt you to install it.
+If you don’t have Git installed already, it will prompt you to install it.
 
 # Basics
 ## What’s a repository?
