@@ -59,3 +59,7 @@
 - [Full Stack Python](https://www.fullstackpython.com/)
 - [Egghead.io](http://www.egghead.io/)
 - [Hack Club Workshops](https://hackclub.com/workshops/)
+- [Python for Finance](https://www.pythonforfinance.net/)
+- [Public APIs](https://github.com/public-apis/public-apis)
+
+
